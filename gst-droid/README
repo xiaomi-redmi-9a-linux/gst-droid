@@ -1,0 +1,6 @@
+Android specific GStreamer plugin
+
+Needs droidmedia (http://github.com/sailfishos/droidmedia).
+droidcamsrc: A camera source on top of camera service.
+droideglsink: A sink for rendering.
+droidcodec: encoders and decoders on top of Android's libstagefright
